@@ -1,0 +1,14 @@
+{
+  "name": "nbpowerkwhcost2influx",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "node nbpowerkwhcost2influx.js"
+  },
+  "devDependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "influx": "~5.0",
+    "request": "^2.75.0",
+    "request-promise": "^4.1.1"
+  }
+}
